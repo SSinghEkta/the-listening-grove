@@ -1,0 +1,19 @@
+THE LISTENING GROVE — EDITORIAL / PUBLICATION CHECKLIST
+
+STATUS: PRIVATE REVIEW, NOT PUBLICATION-CLEARED.
+
+[ ] Confirm explicit permission for every recording and the intended public audience.
+[ ] Listen to all 13 files and remove or mask names, institutions, voices of bystanders, and identifying contextual details.
+[ ] Confirm each participant-derived letter with the contributor after all creative editing.
+[ ] Confirm reuse rights for public online accounts; otherwise seek permission, quote minimally with attribution, or remove.
+[ ] Label Letter 04 as a composite of TWO separate public accounts, not one person's life story.
+[ ] Keep public-discussion reflections clearly distinct from participant testimony.
+[ ] Provide accurate transcripts and content notes for sensitive accounts.
+[ ] Publish a correction/withdrawal contact and retention policy before launch.
+[ ] Verify music and illustration provenance. The forest melody and theme SVGs were generated for this project.
+[ ] Test keyboard navigation, screen readers, reduced motion, mobile layouts, and audio playback on a hosted HTTPS preview.
+[ ] Do not imply affiliation with Studio Ghibli or use unlicensed film stills or unverified dialogue.
+
+AUDIO TROUBLESHOOTING: The 13 MP3 files are present and have readable durations.
+Extract the entire ZIP; keep index.html and audio/ in the same folder.
+The audio player now includes a direct recording link for troubleshooting.
